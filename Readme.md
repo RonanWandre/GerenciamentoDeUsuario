@@ -5,6 +5,9 @@ Este projeto é uma API simples para gerenciamento de usuários, desenvolvida em
 🚀 Principais Funcionalidades:
 
 ✅ Listar usuários (GET /users)
+
 ✅ Criar usuários (POST /users/create)
+
 ✅ Organização modular (controllers, models, routes, config)
+
 ✅ Estrutura escalável e bem organizada
